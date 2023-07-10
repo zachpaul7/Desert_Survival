@@ -16,5 +16,8 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임이다.
   
 - 플랫폼 : PC
 
+## 다운로드
+- https://drive.google.com/file/d/1HgX5sLF5sVc0NzdDUDHy5YpNeMChVwuu/view?usp=drive_link
+
 ## 기술서
 - https://drive.google.com/file/d/1K30l8I0RPj-OAQrz0xnbfSnm66s5X5Qp/view?usp=drive_link
