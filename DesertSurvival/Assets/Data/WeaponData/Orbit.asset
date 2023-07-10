@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0696695581a98b44fae19a7d524ef20d, type: 3}
+  m_Name: Orbit
+  m_EditorClassIdentifier: 
+  Name: Orbit
+  stats:
+    dmg: 300
+    timeToAttack: 0
+    numberOfAttacks: 1
+    OrbitSpeed: 150
+  weaponBasePrefab: {fileID: 884162023484195418, guid: c300613558c7dd04b9f3437375ac5266, type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: 3885b37de332a144aae09133daa4f459, type: 2}
+  - {fileID: 11400000, guid: d9547bde2bdcde043af89e7900200301, type: 2}
+  - {fileID: 11400000, guid: 141f9e036810b014db424944a7ca287f, type: 2}
+  - {fileID: 11400000, guid: 4570322f9dda67644b386626dee54378, type: 2}
+  - {fileID: 11400000, guid: 211a2415823621f438c1e14063653649, type: 2}

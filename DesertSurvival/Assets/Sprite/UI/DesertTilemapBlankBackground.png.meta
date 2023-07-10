@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: 962b957d8891eb241a0208c18c6925b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db632ca41edc427419b16e0f9798662f
+      internalID: -232816756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8638cac70d21c4c99041ba73868691
+      internalID: -394078027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24bf97508e6154bb3d9555b1d778dc
+      internalID: -1507783432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 196
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5f24040e872494bb26deb71a52541d
+      internalID: 1320258291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 176
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759991ded24924040a621b7d642b0f62
+      internalID: 731553680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367fd1fe3affbbf47a69ade6a487ecb8
+      internalID: 1364068893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 176
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32c41ce427f588428d3bdb5d8c696e4
+      internalID: -112147423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4dd14e47678640a21be8f493d663f
+      internalID: 1929572772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8253719b1e12948b417034700baaf5
+      internalID: 303977024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173cd37971febd45acc8c78fa221d7a
+      internalID: 959002891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fbd3abf45c43f4dbc9f7dc16de3dd5
+      internalID: -1112694677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 177
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1047b5cce33b7cb489dd9dc21967c3ba
+      internalID: 1623170002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a473aa5f249a0e14695f1a5d7ac891e4
+      internalID: 290019769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 82}
+        - {x: 16, y: 74}
+        - {x: 15, y: 71}
+        - {x: 15, y: 69}
+        - {x: 15, y: 71}
+        - {x: 14, y: 79}
+        - {x: 10, y: 81}
+        - {x: 7, y: 81}
+        - {x: 2, y: 78}
+        - {x: -1, y: 75}
+        - {x: -1, y: 71}
+        - {x: 1, y: 69}
+        - {x: 5, y: 69}
+        - {x: -5, y: 68}
+        - {x: -5, y: 71}
+        - {x: 0, y: 77}
+        - {x: 1, y: 81}
+        - {x: -1, y: 82}
+        - {x: -112, y: 82}
+        - {x: -112, y: -82}
+        - {x: -28, y: -82}
+        - {x: 112, y: -67}
+        - {x: 112, y: 82}
+      - - {x: 62, y: -78}
+        - {x: 62, y: -82}
+        - {x: 82, y: -82}
+        - {x: 82, y: -78}
+        - {x: 80, y: -76}
+        - {x: 64, y: -76}
+      - - {x: 94, y: -78}
+        - {x: 94, y: -82}
+        - {x: 112, y: -82}
+        - {x: 112, y: -76}
+        - {x: 96, y: -76}
+      - - {x: -13, y: -30}
+        - {x: -16, y: -27}
+        - {x: -45, y: -27}
+        - {x: -45, y: -1}
+        - {x: -19, y: -1}
+        - {x: -1, y: -19}
+        - {x: 1, y: -19}
+        - {x: 19, y: -1}
+        - {x: 19, y: 3}
+        - {x: 1, y: 21}
+        - {x: -1, y: 21}
+        - {x: -14, y: 8}
+        - {x: -13, y: 25}
+        - {x: 13, y: 25}
+        - {x: 13, y: 20}
+        - {x: 18, y: 15}
+        - {x: 61, y: 15}
+        - {x: 61, y: 4}
+        - {x: 63, y: 2}
+        - {x: 61, y: 0}
+        - {x: 61, y: -27}
+        - {x: 53, y: -27}
+        - {x: 53, y: -23}
+        - {x: 50, y: -20}
+        - {x: 30, y: -20}
+        - {x: 27, y: -23}
+        - {x: 27, y: -27}
+        - {x: -4, y: -27}
+        - {x: -7, y: -30}
+        - {x: -7, y: -36}
+        - {x: -13, y: -36}
+      - - {x: -39, y: 74}
+        - {x: -41, y: 72}
+        - {x: -41, y: 69}
+        - {x: -38, y: 66}
+        - {x: -35, y: 66}
+        - {x: -33, y: 68}
+        - {x: -33, y: 71}
+        - {x: -35, y: 73}
+      - - {x: -32, y: 80}
+        - {x: -32, y: 74}
+        - {x: -29, y: 71}
+        - {x: -23, y: 66}
+        - {x: -16, y: 66}
+        - {x: -16, y: 79}
+        - {x: -17, y: 80}
+      - - {x: 26, y: 75}
+        - {x: 24, y: 73}
+        - {x: 24, y: 71}
+        - {x: 27, y: 68}
+        - {x: 30, y: 68}
+        - {x: 32, y: 70}
+        - {x: 32, y: 73}
+        - {x: 30, y: 75}
+      - - {x: 36, y: 81}
+        - {x: 33, y: 78}
+        - {x: 33, y: 74}
+        - {x: 35, y: 72}
+        - {x: 39, y: 72}
+        - {x: 42, y: 75}
+        - {x: 42, y: 78}
+        - {x: 39, y: 81}
+      - - {x: 24, y: 82}
+        - {x: 23, y: 81}
+        - {x: 23, y: 78}
+        - {x: 26, y: 75}
+        - {x: 29, y: 75}
+        - {x: 31, y: 77}
+        - {x: 31, y: 80}
+        - {x: 29, y: 82}
+      physicsShape:
+      - - {x: 51, y: 82}
+        - {x: 16, y: 74}
+        - {x: 15, y: 71}
+        - {x: 15, y: 69}
+        - {x: 15, y: 71}
+        - {x: 14, y: 79}
+        - {x: 10, y: 81}
+        - {x: 7, y: 81}
+        - {x: 2, y: 78}
+        - {x: -1, y: 75}
+        - {x: -1, y: 71}
+        - {x: 1, y: 69}
+        - {x: 5, y: 69}
+        - {x: -5, y: 68}
+        - {x: -5, y: 71}
+        - {x: 0, y: 77}
+        - {x: 1, y: 81}
+        - {x: -1, y: 82}
+        - {x: -112, y: 82}
+        - {x: -112, y: -82}
+        - {x: -28, y: -82}
+        - {x: 112, y: -67}
+        - {x: 112, y: 82}
+      - - {x: 62, y: -78}
+        - {x: 62, y: -82}
+        - {x: 82, y: -82}
+        - {x: 82, y: -78}
+        - {x: 80, y: -76}
+        - {x: 64, y: -76}
+      - - {x: 94, y: -78}
+        - {x: 94, y: -82}
+        - {x: 112, y: -82}
+        - {x: 112, y: -76}
+        - {x: 96, y: -76}
+      - - {x: -13, y: -30}
+        - {x: -16, y: -27}
+        - {x: -45, y: -27}
+        - {x: -45, y: -1}
+        - {x: -19, y: -1}
+        - {x: -1, y: -19}
+        - {x: 1, y: -19}
+        - {x: 19, y: -1}
+        - {x: 19, y: 3}
+        - {x: 1, y: 21}
+        - {x: -1, y: 21}
+        - {x: -14, y: 8}
+        - {x: -13, y: 25}
+        - {x: 13, y: 25}
+        - {x: 13, y: 20}
+        - {x: 18, y: 15}
+        - {x: 61, y: 15}
+        - {x: 61, y: 4}
+        - {x: 63, y: 2}
+        - {x: 61, y: 0}
+        - {x: 61, y: -27}
+        - {x: 53, y: -27}
+        - {x: 53, y: -23}
+        - {x: 50, y: -20}
+        - {x: 30, y: -20}
+        - {x: 27, y: -23}
+        - {x: 27, y: -27}
+        - {x: -4, y: -27}
+        - {x: -7, y: -30}
+        - {x: -7, y: -36}
+        - {x: -13, y: -36}
+      - - {x: -39, y: 74}
+        - {x: -41, y: 72}
+        - {x: -41, y: 69}
+        - {x: -38, y: 66}
+        - {x: -35, y: 66}
+        - {x: -33, y: 68}
+        - {x: -33, y: 71}
+        - {x: -35, y: 73}
+      - - {x: -32, y: 80}
+        - {x: -32, y: 74}
+        - {x: -29, y: 71}
+        - {x: -23, y: 66}
+        - {x: -16, y: 66}
+        - {x: -16, y: 79}
+        - {x: -17, y: 80}
+      - - {x: 26, y: 75}
+        - {x: 24, y: 73}
+        - {x: 24, y: 71}
+        - {x: 27, y: 68}
+        - {x: 30, y: 68}
+        - {x: 32, y: 70}
+        - {x: 32, y: 73}
+        - {x: 30, y: 75}
+      - - {x: 36, y: 81}
+        - {x: 33, y: 78}
+        - {x: 33, y: 74}
+        - {x: 35, y: 72}
+        - {x: 39, y: 72}
+        - {x: 42, y: 75}
+        - {x: 42, y: 78}
+        - {x: 39, y: 81}
+      - - {x: 24, y: 82}
+        - {x: 23, y: 81}
+        - {x: 23, y: 78}
+        - {x: 26, y: 75}
+        - {x: 29, y: 75}
+        - {x: 31, y: 77}
+        - {x: 31, y: 80}
+        - {x: 29, y: 82}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad0237b3747ded4ba36548e1b8e3758
+      internalID: -164667939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d46bed66f7617b47be357e435465970
+      internalID: -1736159348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3224805a94c28034ca37fda2e066b2ab
+      internalID: -1469008804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 29
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60896ae80c908e549aff5872b895313b
+      internalID: -1349489640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertTilemapBlankBackground_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d303245bd0dffc4aaf0e01df0f48be7
+      internalID: 227240070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DesertTilemapBlankBackground_7: 1929572772
+      DesertTilemapBlankBackground_2: -1507783432
+      DesertTilemapBlankBackground_16: 1075328708
+      DesertTilemapBlankBackground_13: -164667939
+      DesertTilemapBlankBackground_11: 1623170002
+      DesertTilemapBlankBackground_0: -232816756
+      DesertTilemapBlankBackground_4: 731553680
+      DesertTilemapBlankBackground_10: -1112694677
+      DesertTilemapBlankBackground_17: -1349489640
+      DesertTilemapBlankBackground_8: 303977024
+      DesertTilemapBlankBackground_1: -394078027
+      DesertTilemapBlankBackground_3: 1320258291
+      DesertTilemapBlankBackground_14: -1736159348
+      DesertTilemapBlankBackground_6: -112147423
+      DesertTilemapBlankBackground_9: 959002891
+      DesertTilemapBlankBackground_12: 290019769
+      DesertTilemapBlankBackground_15: -1469008804
+      DesertTilemapBlankBackground_5: 1364068893
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

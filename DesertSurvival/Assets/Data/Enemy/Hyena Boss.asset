@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba06dfdc9dc2b749afbdaacbb690f15, type: 3}
+  m_Name: Hyena Boss
+  m_EditorClassIdentifier: 
+  Name: Skeleton
+  animatedPrefab: {fileID: 3208080394031255562, guid: 8d261f1dc8f133547a22c7c22f31cb25, type: 3}
+  stats:
+    hp: 1800
+    dmg: 20
+    experience_reward: 0
+    moveSpeed: 3
