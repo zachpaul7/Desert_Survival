@@ -1,7 +1,6 @@
 ![메인](https://github.com/zachpaul7/Desert_Survival/assets/60610390/408b8b32-e0ea-4c48-bbc5-3af26687451e)
 
-# 프로젝트명
-Desert Survival
+# Desert Survival
 
 ## 프로젝트 소개
 Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임이다.
