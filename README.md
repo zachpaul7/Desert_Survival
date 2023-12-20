@@ -93,24 +93,12 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 
 <details>
   <summary>Sprite Assets</summary>
-  - MainShip - https://foozlecc.itch.io/void-main-ship <br>
-  - Act1 Enemy - https://foozlecc.itch.io/void-fleet-pack-1 <br>
-  - Act2 Enemy - https://foozlecc.itch.io/void-fleet-pack-2 <br>
-  - Act3 Enemy - https://foozlecc.itch.io/void-fleet-pack-3 <br>
-  - Upgrade Icon - https://foozlecc.itch.io/void-pickups-pack <br>
-  - 체력 - https://hochupitsu.itch.io/heart-and-mana <br>
-  - License : (Creative Commons Zero, CC0) http://creativecommons.org/publicdomain/zero/1.0/ <br>
+  - Player, Some Enemy and Objects - https://assetstore.unity.com/packages/2d/undead-survivor-assets-pack-238068 <br>
+  - Enemy - https://itch.io/queue/c/817912/pixel-art-survival-platformer?game_id=623876 <br>
 </details>
 
 <details>
   <summary>Sound Assets</summary>
-  - MainMenu - Music: Going to Space by HenrIT / Free download: https://filmmusic.io/song/10483-going-to-space <br>
-  - Act1 BGM - Music: The Only Way Is Through by Phat Sounds / Free download: https://filmmusic.io/song/11756-the-only-way-is-through <br>
-  - Act2 BGM - Music: Unveiling Mysteries by Serge Brison / Free download: https://filmmusic.io/song/11556-unveiling-mysteries <br>
-  - Act3 BGM - Music: Mystic Tranquility by MusicLFiles / Free download: https://filmmusic.io/song/11031-mystic-tranquility <br>
-  - Story BGM - Music: Nowhere (instrumental) by Sascha Ende / Free download: https://filmmusic.io/song/379-nowhere-instrumental <br>
-  - StoryEnd - Music: Feeling Full Of Joy Piano Solo by MusicLFiles / Free download: https://filmmusic.io/song/8165-feeling-full-of-joy-piano-solo <br>
-  - GameOver - Music: Pumpkin Demon by WinnieTheMoog / Free download: https://filmmusic.io/song/6866-pumpkin-demon <br>
-  - Victory - Music: Victory by Alexander Nakarada / Free download: https://filmmusic.io/song/4924-victory <br>
+  - MainMenu - Music: Memeface Rockathon by Alexander Nakarada / Free download: https://filmmusic.io/song/10258-memeface-rockathon <br>
   - License : CC BY 4.0 https://filmmusic.io/standard-license <br>
 </details>
