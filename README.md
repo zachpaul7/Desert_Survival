@@ -1,48 +1,56 @@
 ![메인](https://github.com/zachpaul7/Desert_Survival/assets/60610390/408b8b32-e0ea-4c48-bbc5-3af26687451e)
 
 # Desert Survival
+<br/>
 
 ## 🖥 프로젝트 소개
 Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 
 최근 유행했던 뱀서라이크 장르에 대한 이해도를 높히고자 제작되었다.
 
+<br/>
+
 ## 📢 프로젝트 개요
 ### ⌛ 개발 기간
-* 23.1 ~ 23. 2 (총 8주)
+- 23.1 ~ 23. 2 (총 8주)
 
 ### ⚙ 개발 환경
 - Language : C#
 - Tool : Unity (2020.3.9f1 LTS)
 
 ### 👩‍💻 팀원
-- 박신영 - zachpaul707@gmail.com
+- 박신영 : zachpaul707@gmail.com
+
+<br/>
 
 ## 🎮 게임
 ### 구동 플랫폼 
 - PC
-  
+
 ### 다운로드
-- [Desert Survial 다운로드 (구글 드라이브 링크)](https://drive.google.com/file/d/1HgX5sLF5sVc0NzdDUDHy5YpNeMChVwuu/view?usp=drive_link)
+- [```[Desert Survial 다운로드 (구글 드라이브 링크)]```](https://drive.google.com/file/d/1HgX5sLF5sVc0NzdDUDHy5YpNeMChVwuu/view?usp=drive_link)
 
 ### 기술서
-- [Desert Survial 기술서.pptx](https://drive.google.com/file/d/1K30l8I0RPj-OAQrz0xnbfSnm66s5X5Qp/view?usp=drive_link)
+- [```[Desert Survial 기술서]```](https://drive.google.com/file/d/1K30l8I0RPj-OAQrz0xnbfSnm66s5X5Qp/view?usp=drive_link)
 
 ### 개발 동기
 - 대한민국 게임 산업이 빠르게 발전하고 있으며 언리얼 엔진이나 유니티 엔진등의 게임 엔진을 다루는 인력의 요구가 커지고 있어 이러한 흐름에 발맞춰 겨울 방학중 유니티 엔진을 통해 최근 유행중인 **뱀파이어서바이벌**과 같은 게임을 만들어 유니티 엔진에 대한 기술적인 성과를 높히려고 한다.
-  
+
 |![캡처](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/c7a4e1bb-53f5-467e-9af5-7fb447eef766)|![캡처2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/f6190606-6221-4071-ae72-f635c89610f1)|
 |------|---|
 | 뱀파이어서바이벌 메인화면 | 뱀파이어서바이벌 플레이 |
+<br/>
 
 ### 게임 플레이
+- 게임 플레이 영상
+  - [```[Desert Survival 게임 플레이 영상]```](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
+
 - 게임 플레이 사진
 
 |![플레이 1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/6a68f4c1-dbd1-478e-a06e-e4e297c1c90c)|![플레이 2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/21e2dc0a-bdee-4203-b174-03b5697135ea)|
 |---|---|
 
-- 게임 플레이 영상
-  - [Desert Survial 게임플레이 영상](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
+<br/>
 
 ### 게임 자세히 보기
 - 조작 및 플레이어/적 이동 로직
