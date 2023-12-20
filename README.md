@@ -34,10 +34,15 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 |![캡처](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/c7a4e1bb-53f5-467e-9af5-7fb447eef766)|![캡처2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/f6190606-6221-4071-ae72-f635c89610f1)|
 |------|---|
 | 뱀파이어서바이벌 메인화면 | 뱀파이어서바이벌 플레이 |
-<br/>
 
-### 게임 플레이 영상
-- [Desert Survial 게임플레이 영상](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
+### 게임 플레이
+- 게임 플레이 사진
+
+|![플레이 1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/6a68f4c1-dbd1-478e-a06e-e4e297c1c90c)|![플레이 2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/21e2dc0a-bdee-4203-b174-03b5697135ea)|
+|---|---|
+
+- 게임 플레이 영상
+  - [Desert Survial 게임플레이 영상](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
 
 ### 게임 자세히 보기
 - 조작 및 플레이어/적 이동 로직
@@ -66,7 +71,6 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 |---|---|---|
 |![Weapon_2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/007cedcf-1af8-4204-a611-0fc5b0726b3b)|![Weapon_1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/cf0aa4ec-d097-40c1-ba3d-6f232f9b08ee)|![Weapon_3](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/5f3ea5d5-dd6e-45d0-96b3-3a13ea9b1537)|
 <br/>
-
 
 - 업그레이드 / STORE 시스템
 
