@@ -23,18 +23,21 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 - PC
   
 ### 다운로드
-- https://drive.google.com/file/d/1HgX5sLF5sVc0NzdDUDHy5YpNeMChVwuu/view?usp=drive_link
+- [Desert Survial 다운로드 (구글 드라이브 링크)](https://drive.google.com/file/d/1HgX5sLF5sVc0NzdDUDHy5YpNeMChVwuu/view?usp=drive_link)
 
 ### 기술서
-- https://drive.google.com/file/d/1K30l8I0RPj-OAQrz0xnbfSnm66s5X5Qp/view?usp=drive_link
+- [Desert Survial 기술서.pptx](https://drive.google.com/file/d/1K30l8I0RPj-OAQrz0xnbfSnm66s5X5Qp/view?usp=drive_link)
 
 ### 개발 동기
-- 짧은 시간동안 즐길 수 있는 간단하면서도 재미있는 게임과 도전 욕구를 자극하는 게임이 현재 게임시장의 트랜드라고 생각해 오락실에서 즐겨하던 **슈팅게임(1945)** 과 최근에 유행했던 **로그라이크 게임(뱀파이어서바이벌)** 을 결합해   ‘나 혼자 우주정복’이라는 게임을 모바일 플렛폼으로 개발하게 되었다.
-
-|![image01](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/9d915fd8-c8a7-411c-bb7c-11a00e61b1d7)|![image02](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/2cbcafc3-5b08-43e3-a40a-be60fa6f1257)|
+- 대한민국 게임 산업이 빠르게 발전하고 있으며 언리얼 엔진이나 유니티 엔진등의 게임 엔진을 다루는 인력의 요구가 커지고 있어 이러한 흐름에 발맞춰 겨울 방학중 유니티 엔진을 통해 최근 유행중인 **뱀파이어서바이벌**과 같은 게임을 만들어 유니티 엔진에 대한 기술적인 성과를 높히려고 한다.
+  
+|![캡처](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/c7a4e1bb-53f5-467e-9af5-7fb447eef766)|![캡처2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/f6190606-6221-4071-ae72-f635c89610f1)|
 |------|---|
-| 1945 | 뱀파이어서바이벌 |
+| 뱀파이어서바이벌 메인화면 | 뱀파이어서바이벌 플레이 |
 <br/>
+
+### 게임 플레이 영상
+- [Desert Survial 게임플레이 영상](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
 
 ### 게임 플레이
 - 조작 및 인게임 설명
