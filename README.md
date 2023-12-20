@@ -68,13 +68,13 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 <br/>
 
 
-- 스테이지
+- 업그레이드 / STORE 시스템
 
-각 스테이지별로 다른 유형의 적들과 보스들이 존재한다.
+무기 선택과 업그레이드를 통해 전략적인 선택을 할 수 있다. 또한 게임이 끝난 후에 얻은 코인으로 Store에서 게임 안에서 영향을 미치는 스텟을 올릴 수 있다.
 
-|Act 1|Act 2|Act 3|스토리|
-|---|---|---|---|
-|![1s1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/39180454-15fa-431b-b616-351c24cef7d1)|![2s2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/2cc241ba-2a34-4cf0-b44c-dd8cc6dd3d24)|![1s](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/fdec7778-de0f-4d6a-88a3-8e017c13c169)|![그림3](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/60095acf-437a-402a-b534-4208f0715418)|
+|경험치 및 업그레이드|Store 시스템|
+|---|---|
+|![Upgrade](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/813f6aef-06d1-49e7-a9cb-02d7daffce84)|![ezgif com-resize](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/8a27cef5-47ce-45c9-b4ff-88896b49ddea)|
 <br/>
 
 ## 🛒 사용한 에셋
