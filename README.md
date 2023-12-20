@@ -39,13 +39,34 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 ### 게임 플레이 영상
 - [Desert Survial 게임플레이 영상](https://drive.google.com/file/d/1e8ZseRmmKiHovREAUEZkr98MoeBzcQAP/view?usp=drive_link)
 
-### 게임 플레이
-- 조작 및 인게임 설명
-  
-|메인 화면|기본 화면|업그레이드|무기 사용|
-|---|---|---|---|
-|![그림2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/98b8a14b-ec86-4c5a-826a-6ad0121d83b8)|![그림323](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/39f5bf65-3599-450c-96fe-91852fd2fdd3)|![123123](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/16e03681-4751-42a4-99b8-d951ea11e1a1)|![그림1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/461387c0-53dd-4832-b536-8dea2e8b91a1)|
+### 게임 자세히 보기
+- 조작 및 플레이어/적 이동 로직
+
+| 조작법      | 위 | 아래 | 오른쪽 | 왼쪽 | 공격  |
+|:-----------:|:--:|:---:|:------:|:---:|:----:|
+|   키보드    |  W |  S  |   A    |  D  | 자동 |
+
+| 플레이어 이동 | 적 이동 및 플레이어 추적 |
+|---|---|
+|![Player](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/5ab212ef-8c87-4c77-837f-ce106891ad53)|![Enemy](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/5aac1726-a868-4204-bf65-9f15e9144947)|
 <br/>
+
+- 배경, 아이템등 스프라이트
+  
+| 게임의 배경 | 무한 맵 | 아이템 및 경험치 줍기 |
+|---|---|---|
+|![배경](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/6fb0b7cc-96f2-4a50-8c96-9c0dce8ebaa9)|![Map](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/f160a22e-9d0d-4310-8f59-ed4795adcc77)|![Item](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/4796f26a-c166-4e09-a3ba-9531b992d5d0)|
+<br/>
+
+- 다양한 무기 시스템
+
+여러 무기들이 존재해 선택하는 재미가 있다.
+
+|투척형 무기|지속형 무기|궤도형 무기|
+|---|---|---|
+|![Weapon_2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/007cedcf-1af8-4204-a611-0fc5b0726b3b)|![Weapon_1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/cf0aa4ec-d097-40c1-ba3d-6f232f9b08ee)|![Weapon_3](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/5f3ea5d5-dd6e-45d0-96b3-3a13ea9b1537)|
+<br/>
+
 
 - 스테이지
 
