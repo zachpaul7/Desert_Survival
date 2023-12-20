@@ -16,7 +16,7 @@ Unity 엔진을 기반으로 제작된 2D 탑다운 슈팅 게임
 
 ### ⚙ 개발 환경
 - Language : C#
-- Tool : Unity (2020.3.9f1 LTS)
+- Tool : Unity (2021.3.13f1 LTS)
 
 ### 👩‍💻 팀원
 - 박신영 : zachpaul707@gmail.com
